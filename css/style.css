@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.btn {
+  padding: 20px;
+  width: 66px;
+  margin: 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+/* .btn .AC{
+    width: 66px;
+} */
+.row {
+  margin: 4px 0;
+}
+.row input {
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 26px;
+}
